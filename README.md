@@ -1,0 +1,2 @@
+# addon-autoupdater
+Addon updater
